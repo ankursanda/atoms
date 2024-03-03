@@ -1,0 +1,21 @@
+.search_card{
+    padding: 10px;
+    background: linear-gradient(180deg,#14213D 35%, #ce0808 100%);
+    height: 800px;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+}
+
+#search{
+    height: 60px;
+    width: 350px;
+    font-size: 30px;
+}
+
+#btn{
+    height: 60px;
+    width: 150px;
+    font-size: 30px;
+    margin-left: 5px;
+}

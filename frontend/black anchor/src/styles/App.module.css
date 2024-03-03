@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0px;
+    background-color: #681212;
+}
+.nav{
+    height: 100px;
+    background: linear-gradient(180deg,#14213D 35%, #ce0808 100%);
+    color: #E5E5E5;
+    font-size: 50px;
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    gap: 40px;
+}
